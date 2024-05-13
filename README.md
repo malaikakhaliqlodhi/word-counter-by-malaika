@@ -1,5 +1,2 @@
 "# word-counter-by-malaika" 
-"# word-counter-by-malaika" 
-"# word-counter-by-malaika" 
-"# word-counter-by-malaika" 
-"# word-counter-by-malaika" 
+
